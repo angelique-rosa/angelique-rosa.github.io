@@ -1,4 +1,4 @@
-title: ANGELIQUE ROSA MARIN
+
 
 ## Content
 <details>
