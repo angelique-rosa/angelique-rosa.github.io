@@ -1,3 +1,10 @@
+<details>
+<summary>This is how you drop</summary>
+<br>
+Drop down.
+</details>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/angelique-rosa/angelique-rosa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
