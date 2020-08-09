@@ -1,7 +1,6 @@
 _Angelique Rosa Marin_
 
-|[About me](https://github.com/)|[Projects](https://github.com/)|[Writing](https://github.com/)|GeoLa
-tinas Blog (https://geolatinas.weebly.com/blog)
+|[About me](https://github.com/)
 ## Content
 <details>
 <summary>ABOUT ME</summary>
@@ -10,6 +9,10 @@ Science.
 </details>
 DDNJCDNNCD
 CNDNDCJNDS
+
+|[Projects](https://github.com/)|[Writing](https://github.com/)
+|GeoLatinas Blog (https://geolatinas.weebly.com/blog)
+
 
 ### Markdown
 
