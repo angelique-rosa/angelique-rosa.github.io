@@ -1,10 +1,3 @@
 theme: jekyll-theme-cayman
 title: Welcome to the Jungle!! 
 description: teston, testong, testong 
-
-### Testing Dropdown
-<details>
-<summary>change this</summary>
-<br>
-change this.
-</details>
