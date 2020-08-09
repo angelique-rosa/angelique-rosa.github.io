@@ -1,6 +1,6 @@
 ### Content
 <details>
-<summary>change this</summary>
+<summary>ABOUT ME</summary>
 <br>
 Science.
 </details>
