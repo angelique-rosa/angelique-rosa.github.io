@@ -1,6 +1,8 @@
 _Angelique Rosa Marin_
 
-|[About me](https://github.com/)
+|[About me](https://github.com/)|[Projects](https://github.com/)|[Writing](https://github.com/)
+|GeoLatinas Blog (https://geolatinas.weebly.com/blog)
+
 ## Content
 <details>
 <summary>ABOUT ME</summary>
@@ -9,11 +11,6 @@ Science.
 </details>
 DDNJCDNNCD
 CNDNDCJNDS
-
-|[Projects](https://github.com/)|[Writing](https://github.com/)
-|GeoLatinas Blog (https://geolatinas.weebly.com/blog)
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
