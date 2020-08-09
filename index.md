@@ -1,4 +1,5 @@
-
+|[About me](https://github.com/)|[Projects](https://github.com/)|[Writing](https://github.com/)|
+|---|---|---|
 
 ## Content
 <details>
