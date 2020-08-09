@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to the Jungle!! 
 description: teston, testong, testong 
+gem "github-pages", group: :jekyll_plugins
