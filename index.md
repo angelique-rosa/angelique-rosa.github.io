@@ -1,7 +1,7 @@
 _Angelique Rosa Marin_
 
 |[About me](https://github.com/)|[Projects](https://github.com/)|[Writing](https://github.com/)
-|GeoLatinas Blog (https://geolatinas.weebly.com/blog)
+|[GeoLatinas Blog] (https://geolatinas.weebly.com/blog)
 
 ## Content
 <details>
